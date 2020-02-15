@@ -1,9 +1,11 @@
 # Google-Search-Book
 
 <b><u>Summary:</u></b>
-This app is built to search books using the google book api. More information on google book api can be located here: <a href="https://developers.google.com/books/" target="_blank">click here</a>. This app is our first group assignment (Samuel, Namita, Sophie, and Kevin) using the MERN (Mongodb, Express, React, and Node) platform.
+This app is built to search books using the google book api. More information on google book api can be located here: <a href="https://developers.google.com/books/" target="_blank">click here</a>.
 
-<a href="https://google-search-book.herokuapp.com" target="_blank">Click me to check the app out!</a>
+<!-- This app is our first group assignment (Samuel, Namita, Sophie, and Kevin) using the MERN (Mongodb, Express, React, and Node) platform. -->
+
+<!-- <a href="https://google-search-book.herokuapp.com" target="_blank">Click me to check the app out!</a> -->
 
 <hr>
 
