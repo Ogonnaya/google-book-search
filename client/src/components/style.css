@@ -1,0 +1,97 @@
+body {
+    font-family: 'Roboto Condensed';
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(https://images.unsplash.com/photo-1481627834876-b7833e8f5570?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1741&q=80) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+/* Navigation ========================================================== */
+.nav-link {
+    padding-left: 0;
+}
+
+/* Jumbotron ========================================================== */
+
+.jumbotron {
+    padding: 1rem 1rem 0 1rem;
+    margin-bottom: 0;
+    background: rgba(0, 0, 0, 0.0);
+}
+
+hr {
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    border-bottom-color: white;
+}
+
+/* Heading ========================================================== */
+.heading {
+    padding-top: 2rem;
+}
+
+.text-info {
+    color: white !important;
+}
+
+/* Search Card ========================================================== */
+.search-card {
+    border-radius: 0;
+    background: rgba(0, 0, 0, 0.0)
+        /* Green background with 30% opacity */
+}
+
+.form-control {
+    height: 3rem;
+}
+
+.btn-outline-light {
+    margin: 1rem 0;
+}
+
+.btn-outline-success {
+    margin: 1rem 0;
+    border-color: green;
+    color: green
+}
+
+.btn {
+    width: 10rem;
+    margin-right: 1rem;
+}
+
+/* Search Results ========================================================== */
+.book-card,
+.no-results {
+    margin: 2rem 1rem;
+    padding: 0;
+
+}
+
+.search-results {
+    padding: 0;
+}
+
+h3 {
+    color: white;
+}
+
+.book-card {
+    background: rgba(255, 255, 255, 0.5);
+}
+
+.card-text,
+.card-title,
+.card-buttons {
+    padding-left: 1rem;
+}
+
+.card-body {
+    padding-left: 0;
+    padding-right: 0;
+}
+
+.card-img {
+    margin-left: 15px;
+}
