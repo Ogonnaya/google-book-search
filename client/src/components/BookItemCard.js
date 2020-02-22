@@ -11,7 +11,7 @@ function BookItemCard(props) {
           </div>
         </div>
         <div className="col-md-10">
-          <div className="card-body">
+          <div className="card-body content">
             <h5 className="card-title">{props.title}</h5>
             <p className="card-text">Written By: {props.author}</p>
             <p className="card-text">Desc: {props.description}</p>
